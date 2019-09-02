@@ -1,0 +1,4 @@
+websockets
+asyncqt
+pyside2
+msgpack
